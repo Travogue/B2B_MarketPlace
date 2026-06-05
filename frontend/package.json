@@ -26,8 +26,8 @@
     "recharts": "^3.8.1",
     "socket.io-client": "^4.8.3"
   },
-  "devDependencies": {
-    "@vitejs/plugin-react": "^4.4.1",
-    "vite": "^8.0.12"
-  }
+ "devDependencies": {
+  "vite": "^7.1.0",
+  "@vitejs/plugin-react": "^4.7.0"
+}
 }
